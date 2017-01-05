@@ -246,7 +246,7 @@ var isPrime = function (n) {
 
 
 // Using the `isPrime` function, write a function that accepts a number as
-// input sums all the primes smaller than that number.
+// input sums all the primes smaller than or equal to that number.
 //
 //     sumPrimesUpTo(100);
 //     //=> 1060
